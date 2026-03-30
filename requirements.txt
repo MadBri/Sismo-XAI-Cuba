@@ -1,0 +1,21 @@
+# Procesamiento de Datos y Ciencia
+numpy==1.24.3
+matplotlib==3.7.1
+pandas==2.0.2
+
+# [span_57](start_span)Sismología Especializada[span_57](end_span)
+obspy==1.4.0
+seisbench==0.5.0
+
+# [span_58](start_span)Deep Learning Frameworks[span_58](end_span)
+tensorflow==2.13.0
+torch==2.0.1
+torchvision==0.15.2
+
+# [span_59](start_span)Inteligencia Artificial Explicable (XAI)[span_59](end_span)
+shap==0.42.1
+lime==0.2.0.1
+captum==0.6.0
+
+# Entorno
+jupyterlab
